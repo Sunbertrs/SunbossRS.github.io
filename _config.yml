@@ -1,9 +1,9 @@
 # Site settings 配置站点
-title: "柚木鉉の空間 | GloomyGhost Blog"
-home-title: 柚木鉉の空間
-description: 失敗は恐ろしいものではありませんね～<br/>恐ろしいことは、あなたがこれを信じているということですよ～
-keyword: "GloomyGhost, C++, CPP, JavaScript, Web, WWW, Blog"
-url: ""
+title: "SunbossRS Blog"
+home-title: 耀光的博客
+description: The quieter you become, the more you are able to hear.
+keyword: "耀光, linux, html, 博客, SunbossRS, Blog"
+url: "https://sunbossrs.github.io/"
 baseurl: ""
 
 defaultcover: https://i.loli.net/2020/01/20/cNmWL5aeQuRksKg.png
@@ -16,20 +16,19 @@ nav:
   tags: "/page/tags"
   about: "/page/about"
   links: "/page/links"
-  tenebrous: "https://www.gloomyghost.com/Tenebrous/"
 
 # Footer
 footer:
-  since: 2014
+  since: 2015
 
 # Author 配置博主信息
-author: 柚木鉉
-nickname: GloomyGhost | 蚊香豹
-bio: Singing Synthesis, Operating System, Web Develop, IOT, Psychology, 中文/English/日本語OK, Chinese <br> (｀・∀・´)
+author: 耀光
+nickname: SunbossRS
+bio: B站UP主,原创作者,电脑技术人员,学生
 avatar: "/assets/img/profile.png"
 
 # Search
-search: true
+search: false
 
 # Night mode
 nightMode: false
@@ -55,11 +54,10 @@ theme-color: "default" # default
 postPatterns: "circuitBoard"
 
 # SNS settings 配置社交网站
-# url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
+# url: email, twitter, github
 sns:
-  email: "mailto:gloomyghost@gloomyghost.com"
-  zhihu: "https://www.zhihu.com/people/gloomyghost"
-  github: "https://github.com/YuzukiTsuru"
+  email: "mailto:3127723014@qq.com"
+  github: "https://github.com/SunbossRS"
   qq: "http://wpa.qq.com/msgrd?v=3&uin=2427346650&site=qq&menu=yes"
   twitter: "https://twitter.com/GLGH_"
   bilibili: "https://space.bilibili.com/24622028"
