@@ -1,73 +1,54 @@
 ---
 title: About
 layout: page
-mathjax: true
 ---
 
-$$
-\frac{\left(-\sqrt{\frac{50}{\pi}} \int_{-\infty}^{+\infty} e^{i \pi-\frac{x^{2}}{2}} d x\right)^{3}}{10 ^ 3} + 7 + \frac{\left(-\sqrt{\frac{50}{\pi}} \int_{-\infty}^{+\infty} e^{i \pi-\frac{x^{2}}{2}} d x\right)^{2}}{10}
-$$
-歳，学生です
+### 关于我
 
-始めまして,どうぞ宜しくお愿いします
- 
-是只算法狗+前端+机器学习+后端+系统开发+嵌入式+医学+药理学+摄影的综合垃圾体
- 
-## 主要做
- 
-### 机器学习方向：
- 
-* 歌声合成，歌声转换，语音合成，自然语言处理，情感处理，人脸识别，图像识别。
- 
-### 算法方向
- 
-* 数字信号处理，音频分析，计算机音频，计算机视觉。
- 
-### 前端方向
- 
-* 网页，网站，Electron APP，TryLearn 中国。
- 
-### 系统开发
- 
-* Arm版本系统开发，Linux开发，Linux与嵌入式，安卓系统基础开发，ChromiumOS基础。
- 
-### 后端
- 
-* 网站，服务器，运维。
- 
-### 嵌入式
- 
-* 树莓派系列，OrangePI系列，FireFly系列，Jetson系列，Arduino系列，51系列，FPGA
- 
-### 医学方向
- 
-* 心理学，精神医学，神经外科。
- 
-是只连废，巨爱连连
- 
-# ~~镜音连天下第一~~
- 
-~~巨懒（（（（（~~
- 
-随心更新
- 
-这里是一些版权，引用内容（非常感谢 どうもありがとう დიდი მადლობა Thank You）：
+哈喽大家好我是耀光~！感谢大家看到这个页面，在这个页面里我会说一下有关我的信息（废话啊啊啊
 
-<blockquote>
-    <p>大部分连连的图片来自：<a href="https://piapro.jp/Kurayoru" title="Ei-Flowさん">Ei-Flowさん</a>。<br />
-        主题由
-        <del><a href="https://github.com/Siphils">Siphils</a></del> <a href="https://github.com/kaeyleo/">kaeyleo</a>
-        制作的
-        <del><a href="https://aria-doc.eriri.ink">Aria</a></del>
-        <a href="https://github.com/kaeyleo/jekyll-theme-H2O">jekyll-theme-H2O</a>
-        修改而来。<br />
-        由
-        <del><a href="https://cn.wordpress.org/">WordPress</a> </del>
-        <del><a href="http://typecho.org/">Typecho</a> </del>
-        <a href="https://jekyllrb.com/">Jekyll</a>
-        强力驱动。<br />
-        当然还有
-        <a href="https://www.avogado6.com/">アボガド6</a>
-        的精美插画!</p>
-</blockquote>
+我今年13岁，是一名学生~
 
+坐标：广东, 佛山
+
+喜欢玩的游戏：**Minecraft (Bedrock Edition)**
+
+游戏玩家的用户名是**SunbossRS**~
+
+目前我主要在做的内容很混乱，很复杂，人嘛，总是要喜欢尝试新的事物，永远要有18岁的心态。即使是乱，但是我习惯了！
+
+那么以下是我在做的内容：
+
+* 信息技术方面：Python编程, 网站-编程(Html/Javascript/CSS), 电脑研究, 系统开发, 树莓派(Raspberry Pi)开发, 抓包(初入手), 放送文化, 软件开发
+
+* 音乐方面：随口一唱(歌ってみた), 编辑音乐(Cubase5已入手)
+
+* 社交方面：B站UP主(视频作者), 个人意见发表者, 朋友很少网友很多的人
+
+* 生活方面：轮滑爱好者, 二次元爱好者, Cosplay爱好者(虽然到目前为止都还没cos过), 双声类(男女音,不过好像有点奇怪)
+
+* 语言方面：汉语, 英语, 日语(初上手)
+
+* 网上活动方面：原创作者, 搬运者, 搬运视频汉化者, 博客博主, Minecraft玩家
+
+当然我也有挺多装备的...毕竟我做的东西也挺杂，所需要用到的东西也就挺多...
+
+* 电脑：杂牌配昂达H61A主机, BENQ主机, 杂牌旧电脑, 话说N20A手提电脑, 树莓派3b
+
+* 配件：录音笔(我为什么想拿它来唱歌啊啊啊), IDE-USB转换器, 手机支架, MicroSD储存卡, 金士顿(Kingston)U盘
+
+(我已经忍不住想要来个滑稽笑了)因为我做的很杂，所以嘛，我关注的人也挺多
+
+* Minecraft方面：邹陈云飞, 籽岷, 明月庄主, 迪哥闯世界, 苍博士, 老赵, 天垂边的杏花Tcbdxh, Fly6022, ZS零秒00, 秋晨
+
+* 编程方面：童年是个风筝Sctop, Tea9, DIYgod, 柚木鉉(YuzukiTsuru), Fly6022
+
+* 电脑研究方面：360MEMZ, 依桐, 苦力怕控CreeperKong
+
+我嘛...介绍的就差不多了，说了好多事，感觉有些愉快，很高兴能和你一起分享有关我的信息！
+
+特别感谢柚木鉉(YuzukiTsuru)大佬提供的[Syter博客主题](https://github.com/yuzukitsuru/yuzukitsuru.github.io/)！
+
+感谢那些一直陪我走下去的朋友们！感谢你们的支持！
+
+Shh! 秘密です、言わないだよ~！
