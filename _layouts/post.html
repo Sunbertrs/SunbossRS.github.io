@@ -15,27 +15,16 @@ layout: default
     </div>
     <h1>{{ page.title }}</h1>
     <div class="post-meta">
-      <div id="IfOld" style="display: none">
-        <p class="badge badge-pill text-danger border border-danger IfOld">
-          你现在看到的文章是在{{ page.date | date: '%Y' }}年完成的，距离现在
-          <script>
-            let date = new Date;
-            let year = date.getFullYear();
-            document.write(year);
-          </script>
-          已经有一段时间了，可能出现图片缺失等情况，请注意内容在现在的环境中是否还适用！内容仅供参考！
-        </p>
-      </div>
       <span class="post-meta-item"><i
           class="iconfont icon-author"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</span>
       <time class="post-meta-item" datetime="{{ page.date | date:'%y-%m-%d' }}"><i
           class="iconfont icon-date"></i>{{ page.date | date_to_string }}</time>
     </div>
   </div>
-  {% if page.cover %}
+  {% if page.img %}
   <div class="filter"></div>
   <div class="post-cover"
-    style="background: url('{{ page.cover | relative_url }}') center no-repeat; background-size: cover;"></div>
+    style="background: url('{{ page.img | relative_url }}') center no-repeat; background-size: cover;"></div>
   {% endif %}
 </header>
 
@@ -52,17 +41,26 @@ layout: default
   {% endif %}
 
   <article class="markdown-body">
+    
+      <div id="IfOld" style="display: none">
+        <p class="badge badge-pill text-danger border border-danger IfOld">
+          您现在看到的文章是在{{ page.date | date: '%Y' }}年完成和发布的，距离现在
+          <script>
+            let date = new Date;
+            let year = date.getFullYear();
+            document.write(year);
+          </script>
+          已经有一段时间了，可能出现图片缺失等情况，请注意内容在现在的环境中是否还适用！内容仅供参考！
+        </p>
+      </div>
+
     {{ content }}
   </article>
 
   <section class="markdown-body">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <!-- 自动展示 -->
-    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5266662380239421" data-ad-slot="9430046549"
-      data-ad-format="auto" data-full-width-responsive="true"></ins>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />
+    <p class="text-danger">这个工作成果经<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>许可协议许可。</p>
+    <p>经过这个许可协议许可的工作成果只能分享，不可商用或二次修改及再发布(衍生)。如有疑问请访问上面许可证对应的详细信息网站。</p>
   </section>
 
   {% if site.social-share %}
