@@ -6,7 +6,7 @@ keyword: "耀光, linux, html, 博客, SunbossRS, Blog"
 url: "https://sunbossrs.github.io/"
 baseurl: ""
 
-defaultcover: 'https://sunbossrs.coding.net/p/ws-data/d/ws-data/git/raw/master/res/SunbossRS%E8%83%8C%E6%99%AF%E5%9B%BE.png'
+defaultcover: '/assets/img/cardbg.jpg'
 
 version: 0.2
 
