@@ -19,6 +19,17 @@ layout: default
           class="iconfont icon-author"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</span>
       <time class="post-meta-item" datetime="{{ page.date | date:'%y-%m-%d' }}"><i
           class="iconfont icon-date"></i>{{ page.date | date_to_string }}</time>
+      <div id="IfOld" style="display: none">
+        <p class="badge badge-pill text-danger border border-danger IfOld">
+          该内容是在 {{ page.date | date: '%Y' }} 年完成和发布的，距离现在
+          <script>
+            let date = new Date;
+            let year = date.getFullYear();
+            document.write(year);
+          </script>
+          年已经有一段时间了，可能出现图片缺失等情况，请注意内容在现在的环境中是否还适用！内容仅供参考！
+        </p>
+      </div>
     </div>
   </div>
   {% if page.img %}
@@ -28,32 +39,19 @@ layout: default
   {% endif %}
 </header>
 
+<!-- 检测内容过期 -->
+<script>
+  if (parseInt("{{ page.date | date: '%Y' }}") + 1 < year) {
+    document.getElementById("IfOld").style.display = "block";
+  }
+</script>
+
 <div class="post-content visible">
   {% if page.subtitle %}
   <h2 class="post-subtitle">{{ page.subtitle }}</h2>
   {% endif %}
 
   <article class="markdown-body">
-    
-      <div id="IfOld" style="display: none">
-        <p class="badge badge-pill text-danger border border-danger IfOld">
-          您现在看到的文章是在{{ page.date | date: '%Y' }}年完成和发布的，距离现在
-          <script>
-            let date = new Date;
-            let year = date.getFullYear();
-            document.write(year);
-          </script>
-          已经有一段时间了，可能出现图片缺失等情况，请注意内容在现在的环境中是否还适用！内容仅供参考！
-        </p>
-      </div>
-
-       <!-- 检测内容过期 -->
-        <script>
-          if (parseInt("{{ page.date | date: '%Y' }}") + 1 < year) {
-            document.getElementById("IfOld").style.display = "block";
-          }
-        </script>
-
     {{ content }}
   </article>
 
