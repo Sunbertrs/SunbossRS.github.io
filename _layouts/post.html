@@ -18,7 +18,7 @@ layout: default
       <span class="post-meta-item"><i
           class="iconfont icon-author"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</span>
       <time class="post-meta-item" datetime="{{ page.date | date:'%y-%m-%d' }}"><i
-          class="iconfont icon-date"></i>{{ page.date | date_to_string }}</time>
+          class="iconfont icon-date"></i>{{ page.date | date_to_string }}</time><br />
       <div id="IfOld" style="display: none">
         <p class="badge badge-pill text-danger border border-danger IfOld">
           该内容是在 {{ page.date | date: '%Y' }} 年完成和发布的，距离现在
@@ -57,8 +57,8 @@ layout: default
 
   <section class="markdown-body">
     <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />
-    <p class="text-danger">这个工作成果经<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>许可协议许可。</p>
-    <p>经过这个许可协议许可的工作成果只能分享，不可商用或二次修改及再发布(衍生)。如有疑问请访问上面许可证对应的详细信息网站。</p>
+    <p class="text-danger">这篇内容经<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性-无衍生4.0国际许可</a>许可协议许可。</p>
+    <p>经过这个许可协议许可的内容只能分享，不可商用或二次修改、再发布(衍生)。如有疑问请访问上面许可证对应的详细信息网站。如果你想在你的博客里引用这篇内容，可以在你的博客里放上这篇内容的链接，以及通知作者。</p>
   </section>
 
   {% if site.social-share %}
