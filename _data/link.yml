@@ -1,52 +1,57 @@
 links:
-  - name: UMUISM | 无用主义 OpenSource
-    link: http://umu.gloomyghost.com
+  - name: 'Minecraft官网'
+    link: 'https://minecraft.net/'
     status: true
 
-  - name: Shine_5402
-    link: https://shine5402.top
-    status: true
+   - name: 'Minecraft Eternity Bubble Studio'
+     link: 'https://mcebs.github.io/'
+     status: true
 
-  - name: KSKUN'S BLOG
-    link: https://ksmeow.moe
-    status: true
+   - name: 'Minecraft成就生成'
+     link: 'https://mc.whitegem.net/'
+     status: true
 
-  - name: Eldath
-    link: https://ray-eldath.github.io
-    status: false
+   - name: 'mdui官网'
+     link: 'https://mdui.org'
+     status: true
 
-  - name: Spinmry实验室
-    link: http://blog.spinmry.ml
-    status: false
+   - name: 'KeJun'
+     link: 'https://kejun.me/'
+     desc: '二次元智障'
+     status: true
 
-  - name: Glavo
-    link: http://glavo.org
-    status: true
+   - name: "Fly6022's Blog"
+     link: 'https://fly6022.fun'
+     avatar: 'https://fly6022.fun/images/avatar.png'
+     desc: '自己的感受·比道理重要，这里是fly6022的博客。'
+     status: true
 
-  - name: Ice1000
-    link: http://ice1000.org
-    status: true
+   - name: '童年是个风筝的博客'
+     avatar: ''
+     link: 'https://sctop.github.io/'
+     desc: ''
+     status: true
 
-  - name: ArcLL
-    link: http://arcll.cn
-    status: true
+   - name: 'Tea9的博客'
+     avatar: 'https://tea9.github.io/img/avatar.png'
+     link: 'https://tea9.github.io/'
+     desc: ''
+     status: true
 
-  - name: tea9
-    link: https://tea9.github.io
-    status: true
+   - name: '一之笔'
+     avatar: 'https://yizibi.github.io/img/avatar-hux-ny.jpg'
+     link: 'https://yizibi.github.io/'
+     desc: ''
+     status: true
 
-  - name: 量子复合态的博客
-    link: http://pdcblog.tk
-    status: false
+   - name: '文科中的技术宅'
+     avatar: 'https://townwang.com/assets/img/profile.png'
+     link: 'https://townwang.com/'
+     desc: ''
+     status: true
 
-  - name: SunbossRS
-    link: https://sunbossrs.github.io
-    status: true
-
-  - name: 童年是个风筝的博客
-    link: https://www.zhangqirun.cn
-    status: true
-
-  - name: 青鸟 Blog
-    link: http://blue-bird1.github.io
-    status: true
+   - name: 'GloomyGhost'
+     avatar: 'https://gloomyghost.com/assets/img/profile.png'
+     link: 'https://gloomyghost.com/'
+     desc: '连废一个'
+     status: true

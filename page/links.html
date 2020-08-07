@@ -5,12 +5,29 @@ layout: page
 
 {% for link in site.data.link.links %}
 {% if link.status %}
+<!--
 <h3>{{ link.name }}</h3>
-<a href="{{ link.link }}">{{ link.link }}</a>
+<a href="{{ link.link }}">{{ link.link }}</a>-->
+<div class="g-banner" data-theme="{{ site.theme-color }}">
+    <div class="banner-text">
+        <h2>{{ link.name }}</h2>
+        <h3>{{ link.desc }}</h3>
+    </div>
+</div>
 {% else %}
+<!--
 <del>
     <h3>{{ link.name }}</h3>
 </del>
-<del><a href="{{ link.link }}">{{ link.link }}</a></del>（不可访问）
+<del><a href="{{ link.link }}">{{ link.link }}</a></del>（不可访问）-->
+<del>
+<div class="g-banner" data-theme="{{ site.theme-color }}">
+    <div class="banner-text">
+        <h2>{{ link.name }}</h2>
+        <h3>{{ link.desc }}</h3>
+    </div>
+</div>
+</del>
 {% endif %}
 {% endfor %}
+
