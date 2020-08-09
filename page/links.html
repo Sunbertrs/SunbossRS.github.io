@@ -7,15 +7,18 @@ layout: page
 
 {% for link in site.data.link.links %}
 {% if link.status %}
-<div class="article-list">
-   <img src="{{ link.avatar }}" width="26">
+
+<div class="article-item">
+   <img src="{{ link.avatar }}" width="">
    <h3>{{ link.name }}</h3>
    <p>{{ link.desc }}</p>
    <a href="{{ link.link }}">{{ link.link }}</a>
 </div>
 
+<br />
+
 {% else %}
-<div class="article-list">
+<div class="article-item">
    <del>
        <h3>{{ link.name }}</h3>
    </del>
