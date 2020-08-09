@@ -8,10 +8,11 @@ layout: page
 {% for link in site.data.link.links %}
 {% if link.status %}
 
-<img src="{{ link.avatar }}">
+<img src="{{ link.avatar }}" width="13px">
 <h3>{{ link.name }}</h3>
 <p>{{ link.desc }}</p>
 <a href="{{ link.link }}">{{ link.link }}</a>
+<br /> <br />
 
 {% else %}
 
