@@ -5,29 +5,32 @@ layout: page
 
 你好，我是耀光！很高兴你能来到这里！你也可以成为我的朋友呢！
 
-<div class="article-list">
+<main class="g-container home-content">
+   <div class="article-list">
 
 {% for link in site.data.link.links %}
 {% if link.status %}
 
-<article class="article-item">
-   <img src="{{ link.avatar }}" width="">
-   <h3>{{ link.name }}</h3>
-   <p>{{ link.desc }}</p>
-   <a href="{{ link.link }}">{{ link.link }}</a>
-</article>
+   <article class="article-item">
+      <img src="{{ link.avatar }}" width="">
+      <h3>{{ link.name }}</h3>
+      <p>{{ link.desc }}</p>
+      <a href="{{ link.link }}">{{ link.link }}</a>
+   </article>
 
-<br />
+   <br />
 
 {% else %}
-<div class="article-item">
-   <del>
-       <h3>{{ link.name }}</h3>
-   </del>
-   <del><a href="{{ link.link }}">{{ link.link }}</a></del>（不可访问）
-</div>
+
+   <div class="article-item">
+      <del>
+          <h3>{{ link.name }}</h3>
+      </del>
+      <del><a href="{{ link.link }}">{{ link.link }}</a></del>（不可访问）
+   </div>
 
 {% endif %}
 {% endfor %}
 
 </div>
+</main>
