@@ -3,31 +3,23 @@ title: Links
 layout: page
 ---
 
+你好，我是耀光！很高兴你能来到这里！你也可以成为我的朋友呢！
+
 {% for link in site.data.link.links %}
 {% if link.status %}
-<!--
+
+<img src="{{ link.avatar }}">
 <h3>{{ link.name }}</h3>
-<a href="{{ link.link }}">{{ link.link }}</a>-->
-<div class="g-banner" data-theme="{{ site.theme-color }}">
-    <div class="banner-text">
-        <h2>{{ link.name }}</h2>
-        <h3>{{ link.desc }}</h3>
-    </div>
-</div>
+<p>{{ link.desc }}</p>
+<a href="{{ link.link }}">{{ link.link }}</a>
+
 {% else %}
-<!--
+
 <del>
     <h3>{{ link.name }}</h3>
 </del>
-<del><a href="{{ link.link }}">{{ link.link }}</a></del>（不可访问）-->
-<del>
-<div class="g-banner" data-theme="{{ site.theme-color }}">
-    <div class="banner-text">
-        <h2>{{ link.name }}</h2>
-        <h3>{{ link.desc }}</h3>
-    </div>
-</div>
-</del>
+<del><a href="{{ link.link }}">{{ link.link }}</a></del>（不可访问）
+
 {% endif %}
 {% endfor %}
 
