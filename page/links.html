@@ -7,19 +7,20 @@ layout: page
 
 {% for link in site.data.link.links %}
 {% if link.status %}
-
-<img src="{{ link.avatar }}" width="26">
-<h3>{{ link.name }}</h3>
-<p>{{ link.desc }}</p>
-<a href="{{ link.link }}">{{ link.link }}</a>
-<br /> <br />
+<div class="article-list">
+   <img src="{{ link.avatar }}" width="26">
+   <h3>{{ link.name }}</h3>
+   <p>{{ link.desc }}</p>
+   <a href="{{ link.link }}">{{ link.link }}</a>
+</div>
 
 {% else %}
-
-<del>
-    <h3>{{ link.name }}</h3>
-</del>
-<del><a href="{{ link.link }}">{{ link.link }}</a></del>（不可访问）
+<div class="article-list">
+   <del>
+       <h3>{{ link.name }}</h3>
+   </del>
+   <del><a href="{{ link.link }}">{{ link.link }}</a></del>（不可访问）
+</div>
 
 {% endif %}
 {% endfor %}
