@@ -14,7 +14,9 @@ layout: page
 {% if link.status %}
 
    <article class="article-item">
-      <img src="{{ link.avatar }}" class="post-cover">
+      <div class="post-cover">
+        <img src="{{ link.avatar }}" class="post-cover">
+      </div>
       <h3>{{ link.name }}</h3>
       <p>{{ link.desc }}</p>
       <a href="{{ link.link }}">{{ link.link }}</a>
