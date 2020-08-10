@@ -14,8 +14,7 @@ layout: page
    {% if link.status %}
 
    <article class="article-item">
-      <img src="{{ link.avatar }}">
-      <h3>{{ link.name }}</h3>
+      <img src="{{ link.avatar }}"><h3>{{ link.name }}</h3>
       <p>{{ link.desc }}</p>
       <a href="{{ link.link }}">{{ link.link }}</a>
    </article>
@@ -41,8 +40,8 @@ layout: page
    img{
       border-radius: 50%;
       overflow: hidden;
-      width: 7%;
-      height: 7%
+      width: 50%;
+      height: 50%
    }
    img, h3{
       display: inline
