@@ -3,7 +3,7 @@ title: Links
 layout: page
 ---
 
-你好，我是耀光！很高兴你能来到这里！你也可以成为我的朋友呢！
+你好，我是耀光，很高兴你能来到这里！
 
 <main class="g-container home-content">
    <div class="article-list">
@@ -14,7 +14,7 @@ layout: page
    {% if link.status %}
 
    <article class="article-item">
-      <div id="info"><img src="{{ link.avatar }}"><h3>{{ link.name }}</h3></div>
+      <img src="{{ link.avatar }}"><h3>{{ link.name }}</h3>
       <p>{{ link.desc }}</p>
       <a href="{{ link.link }}">{{ link.link }}</a>
    </article>
@@ -42,4 +42,5 @@ layout: page
       align: left;
       height: 20%
    }
+   img{ width:15% }
 </style>
