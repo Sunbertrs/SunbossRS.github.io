@@ -1,18 +1,26 @@
 links:
   - name: 'Minecraft官网'
     link: 'https://minecraft.net/'
+    avatar: ''
+    desc: '是Minecraft官网！'
     status: true
 
   - name: 'Minecraft Eternity Bubble Studio'
     link: 'https://mcebs.github.io/'
+    avatar: ''
+    desc: 'Minecraft永恒气泡工作室官方网站。'
     status: true
 
   - name: 'Minecraft成就生成'
     link: 'https://mc.whitegem.net/'
+    avatar: ''
+    desc: '呀，这个网站可以生成自定义Minecraft风成就呢！'
     status: true
 
   - name: 'mdui官网'
     link: 'https://mdui.org'
+    avatar: ''
+    desc: '一直以来觉得最好的MD设计样式！'
     status: true
 
   - name: 'KeJun'
@@ -35,7 +43,7 @@ links:
   - name: 'Tea9的博客'
     avatar: 'https://tea9.github.io/img/avatar.png'
     link: 'https://tea9.github.io/'
-    desc: ''
+    desc: '是个安卓技术大佬啊'
     status: true
 
   - name: '一之笔'
@@ -53,5 +61,5 @@ links:
   - name: 'GloomyGhost'
     avatar: 'https://gloomyghost.com/assets/img/profile.png'
     link: 'https://gloomyghost.com/'
-    desc: '连废一个'
+    desc: '连废一个-'
     status: true
