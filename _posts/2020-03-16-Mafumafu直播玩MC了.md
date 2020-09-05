@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mafumafu要直播玩MC了！！
+title: Mafumafu直播玩MC了！！
 tag: Minecraft
 ---
 
