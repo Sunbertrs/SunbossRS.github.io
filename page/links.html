@@ -16,7 +16,8 @@ layout: page
    {% if link.status %}
 
    <article class="article-item">
-      <img src="{{ link.avatar }}"><h3>&nbsp;{{ link.name }}</h3>
+      <img src="{{ link.avatar }}">
+      <h3>{{ link.name }}</h3>
       <p>{{ link.desc }}</p>
       <a href="{{ link.link }}">{{ link.link }}</a>
    </article>
@@ -48,13 +49,9 @@ layout: page
 </blockquote>
 
 <style>
-   img, h3{
-      display: inline;
-      align: left;
-   }
    img{
-      width: 21px;
-      height: 21px;
+      width: 36px;
+      height: 36px;
       border-radius: 50%;
       overflow: hidden
       }
