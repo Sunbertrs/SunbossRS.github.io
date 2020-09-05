@@ -1,14 +1,14 @@
 # Site settings 配置站点
 title: "SunbossRS Blog"
 home-title: 耀光的博客
-description: 'なんて素晴らしいな時間がいる！'
+description: '未来を立ち向かってる！'
 keyword: "耀光, linux, html, 博客, SunbossRS, Blog"
 url: "https://sunbossrs.github.io/"
 baseurl: ""
 
 defaultcover: '/assets/img/cardbg.jpg'
 
-version: 0.2
+version: 0.3
 
 # Navigation links
 nav:
