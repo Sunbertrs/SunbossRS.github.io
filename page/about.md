@@ -5,7 +5,7 @@ layout: page
 
 感谢大家看到这个页面！在这个页面里我会说一下有关我的信息（废话啊啊啊
 
-### 关于我
+### 关于我！
 
 MCEBS工作室所属成员，在B站上面是一名原创视频作者，一个生活在复杂社会的普通学生。
 
@@ -13,70 +13,166 @@ MCEBS工作室所属成员，在B站上面是一名原创视频作者，一个�
 
 umm不知为什么有时候就是想表现出自己很萌的样子，但是我实际上不是很萌啊==呃那我应该是一个不可爱的男孩子==
 
+坐标：广东, 佛山
+
+目前还是名00后学生
+
+一般情况下我的昵称都叫做**SunbossRS**
+
+然后我可能有点双声类？(就是男女音的那种？不过是有点奇怪\ )
+
+###  目前会的东西！
+
+目前我会的东西有点多，也有点混乱，和复杂。
+
+但是，人嘛！总是要乐于尝试新的事物，永远要有18岁的心态！我习惯了！
+
+**信息技术方面**
+
+编程, 树莓派(Raspberry Pi)开发, 抓包(啊不是很会), 放送文化, 软件开发
+
+<br>
+
+**音乐方面**
+
+随随便便唱唱歌, 傻傻的做一些不太像样的音乐
+
+<br>
+
+**语言方面**
+
+会讲汉语, 英语, 日语(啊虽然说讲的不是很好吧)
+
+<br>
+
+* 网上活动方面：在B站做视频, 搬运视频(有时会搞翻译视频), 做博客博主写博文, 一名理智的玩Minecraft玩家
+
+### 喜欢的东西！
+
+我喜欢太多东西了！
+
+喜欢二次元！Cosplay！(虽然到目前为止都还没cos过)，但是不喜欢那些卖肉的cos。
+
+游戏！我最最最喜欢玩的游戏就是**Minecraft**！！然后就是消遣类的，微信跳一跳、还有**Dune!**这款游戏，就这么多了。
+
+喜欢研究一些电脑信息类的东西，比如研究电视台, 编程, 做开发
+
+当然也喜欢做视频！特别喜欢做视频的过程，以及学到做视频的技巧！
+
+也很喜欢唱歌==
+
+不过问题是我唱高音身体抽筋，有点麻
+
+喜欢轮滑（umm虽然说我已经有段时间没玩轮滑了吧，但是我还是喜欢的...）
+
+<br>
+
+### 装备！
+
+当然我也有挺多装备的...umm也只是一些小小的物品而已啊
+
+**电脑/机器**
+
+昂达H61A主机, BENQ主机, 杂牌旧电脑, 华硕N20A手提电脑, 树莓派3b
+
+<br>
+
+**一些小配件**
+
+麦克风, 录音笔, IDE-USB转换器, 手机支架, MicroSD储存卡, 金士顿U盘
+
+### 特别关注的人
+
+我做的类型很多！关注的人也多！
+
+但是！这些朋友们都是我特别特别喜欢的优质创作者！
+
+**Minecraft方面**
+
+[邹陈云飞](https://space.bilibili.com/170651403)
+
+[籽岷](https://space.bilibili.com/686127)
+
+[明月庄主](https://space.bilibili.com/2170934)
+
+[迪哥闯世界](https://space.bilibili.com/27996286)
+
+苍博士
+
+老赵
+
+天垂边的杏花Tcbdxh
+
+[Fly6022](https://space.bilibili.com/191078710?from=search&seid=11989848811012028107)
+
+[ZS零秒00](https://space.bilibili.com/361123188)
+
+秋晨
+
+等
+
+<br>
+
+**编程方面**
+
+[童年是个风筝Sctop](https://github.com/sctop)
+
+[Tea9](https://github.com/tea9)
+
+[DIYgod](https://github.com/diygod)
+
+[柚木鉉(YuzukiTsuru)](https://github.com/yuzukitsuru)
+
+[Fly6022](https://github.com/fly6022)
+
+[数字云糕lkyear](https://github.com/lkyear)
+
+等
+
+<br>
+
+**电脑研究方面**
+
+[360MEMZ](https://space.bilibili.com/21927744)
+
+[依桐](https://space.bilibili.com/488676561)
+
+[苦力怕控CreeperKong](https://space.bilibili.com/18540204)
+
+[RyanCPDS](https://space.bilibili.com/31441819)
+
+[数字云糕](https://space.bilibili.com/3391089)
+
+等
+
+<br>
+
+**音乐方面**
+
+[CrazyBucket](https://space.bilibili.com/66606350)
+
+[TSAR](https://space.bilibili.com/8132059)
+
+[周深](https://space.bilibili.com/3404595)
+
+等
+
+### 写在最后！
+
 我嘛...很高兴能和你一起分享有关我的信息！
 
 特别感谢柚木鉉(YuzukiTsuru)大佬提供的[Syter博客主题](https://github.com/yuzukitsuru/yuzukitsuru.github.io/)！
 
 感谢那些一直陪我走下去的朋友们！感谢你们的支持！
 
-Shh! 是秘密，不能说出去哟！
+当然也很感谢你们抽出时间来看我的生活习性(?)和爱好！
 
-### 我的信息
+但是有些事情还是要反复说的，这是个秘密！不能说出去哟！
 
-坐标：广东, 佛山
+也希望看到我的这些生活习性爱好(?)的人在其他人的作品里面不要随意把我和他人比较！谢谢了！
 
-喜欢玩的游戏：**Minecraft (Bedrock Edition)**
+因为如果你这样做的话会很伤别人的心，所以还是要保持理智！
 
-游戏玩家的用户名是**SunbossRS**
+谢谢你了解我！
 
-喜欢的东西：游戏, 电视台, 编程, 开发, 做视频, 唱歌, 电脑
-
-###  目前擅长的东西
-
-目前我会的东西有点多，也有点混乱，和复杂。
-
-但是，人嘛！总是要乐于尝试新的事物，永远要有18岁的心态！我习惯了！
-
-* 信息技术方面：Python编程, 网站编程(Html/Javascript/CSS), 电脑研究, 系统开发, 树莓派(Raspberry Pi)开发, 抓包(初入手), 放送文化, 软件开发
-
-<br>
-
-* 音乐方面：唱歌(歌ってみた), 做音乐(FL studio已上手)
-
-<br>
-
-* 生活方面：轮滑爱好者, 二次元爱好者, Cosplay爱好者(虽然到目前为止都还没cos过), 双声类(男女音,不过好像有点奇怪)
-
-<br>
-
-* 语言方面：会讲汉语, 英语, 日语(虽然讲的不是很好)
-
-<br>
-
-* 网上活动方面：在B站做视频, 搬运视频(有时会搞翻译视频), 做博客博主写博文, 一名理智的玩Minecraft玩家
-
-### 装备
-
-当然我也有挺多装备的...毕竟我做的东西也挺杂，所需要用到的东西也就挺多嘛
-
-* 电脑：杂牌配昂达H61A主机, BENQ主机, 杂牌旧电脑, 华硕N20A手提电脑, 树莓派3b
-
-* 配件：麦克风, 录音笔(我为什么想拿它来唱歌啊啊啊), IDE-USB转换器, 手机支架, MicroSD储存卡, 金士顿(Kingston)U盘
-
-### 特别关注的人
-
-我做的类型很多！关注的人也挺多！但是！这些朋友们都是我特别喜欢的优质创作者！
-
-* Minecraft方面：[邹陈云飞](https://space.bilibili.com/170651403), [籽岷](https://space.bilibili.com/686127), [明月庄主](https://space.bilibili.com/2170934), [迪哥闯世界](https://space.bilibili.com/27996286), 苍博士, 老赵, 天垂边的杏花Tcbdxh, [Fly6022](https://space.bilibili.com/191078710?from=search&seid=11989848811012028107), [ZS零秒00](https://space.bilibili.com/361123188), 秋晨 等
-
-<br>
-
-* 编程方面：[童年是个风筝Sctop](https://github.com/sctop), [Tea9](https://github.com/tea9), [DIYgod](https://github.com/diygod), [柚木鉉(YuzukiTsuru)](https://github.com/yuzukitsuru), [Fly6022](https://github.com/fly6022), [数字云糕lkyear](https://github.com/lkyear) 等
-
-<br>
-
-* 电脑研究方面：[360MEMZ](https://space.bilibili.com/21927744), [依桐](https://space.bilibili.com/488676561), [苦力怕控CreeperKong](https://space.bilibili.com/18540204), [RyanCPDS](https://space.bilibili.com/31441819), [数字云糕](https://space.bilibili.com/3391089) 等
-
-<br>
-
-* 音乐方面：[CrazyBucket](https://space.bilibili.com/66606350), [TSAR](https://space.bilibili.com/8132059), [周深](https://space.bilibili.com/3404595) 等
+不！能！说！出！去！

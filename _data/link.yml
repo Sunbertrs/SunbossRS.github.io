@@ -1,7 +1,7 @@
 links:
   - name: 'Minecraft官网'
     link: 'https://minecraft.net/'
-    avatar: ''
+    avatar: 'about:blank'
     desc: '是Minecraft官网！'
     status: true
 
@@ -19,7 +19,7 @@ links:
 
   - name: 'mdui官网'
     link: 'https://mdui.org'
-    avatar: ''
+    avatar: 'about:blank'
     desc: '一直以来觉得最好的MD设计样式！'
     status: true
 
