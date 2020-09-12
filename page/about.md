@@ -75,7 +75,7 @@ umm不知为什么有时候就是想表现出自己很萌的样子，但是我�
 
 但是！这些朋友们都是我特别特别喜欢的优质创作者！
 
-**Minecraft方面**
+**- Minecraft方面**
 
 [邹陈云飞](https://space.bilibili.com/170651403)
 
@@ -99,7 +99,7 @@ umm不知为什么有时候就是想表现出自己很萌的样子，但是我�
 
 等
 
-**编程方面**
+**- 编程方面**
 
 [童年是个风筝Sctop](https://github.com/sctop)
 
@@ -115,7 +115,7 @@ umm不知为什么有时候就是想表现出自己很萌的样子，但是我�
 
 等
 
-**电脑研究方面**
+**- 电脑研究方面**
 
 [360MEMZ](https://space.bilibili.com/21927744)
 
@@ -129,7 +129,7 @@ umm不知为什么有时候就是想表现出自己很萌的样子，但是我�
 
 等
 
-**音乐方面**
+**- 音乐方面**
 
 [CrazyBucket](https://space.bilibili.com/66606350)
 
@@ -140,6 +140,7 @@ umm不知为什么有时候就是想表现出自己很萌的样子，但是我�
 [まふまふMafumafu](https://space.bilibili.com/387994725)
 
 [そらるSoraru](https://space.bilibili.com/448436523)
+
 等
 
 ## 写在最后！
