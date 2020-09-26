@@ -64,3 +64,9 @@ links:
     link: 'https://gloomyghost.com/'
     desc: '连废一个=='
     status: true
+
+  - name: '楼下的苦力怕'
+    avatar: 'https://i1.hdslb.com/bfs/face/fd4f6807d6e5c53ab85e9f439c258bfcc62bc1f7.jpg'
+    link: 'https://space.bilibili.com/489752882/'
+    desc: '人生苦短，我用Python'
+    status: true
