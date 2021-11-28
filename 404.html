@@ -1,16 +1,8 @@
 ---
 layout: default
-description: "Sorry, Page Not Found :("
+title: 404
 ---
 
-{% include header.html %}
+{% assign lang = site.data.lang[site.data.site.lang] %}
 
-<header class="g-banner np-banner {{ site.postPatterns | prepend: 'post-pattern-' }}" data-theme="{{ site.theme-color }}">
-    <div class="post-wrapper">
-        <h1>404</h1>
-        <span class="subheading">{{ page.description }}</span>
-        <a href="{{ site.nav.home }}" class="btn">Back to home</a>
-    </div>
-</header>
-
-
+{% include content/404x.html %}

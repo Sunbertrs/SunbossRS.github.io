@@ -1,100 +1,24 @@
-# Site settings 配置站点
-title: "SunbossRS Blog"
-home-title: 耀光的博客
-description: '未来を立ち向かってる！'
-keyword: "耀光, linux, html, 博客, SunbossRS, Blog"
-url: "https://sunbossrs.github.io/"
+title: "Jekyll-Theme-MDUI"
+description: "A Jekyll theme based on MDUI"
+url: 
 baseurl: ""
+author: "KeJun"
+paginate: 5
+paginate_path: "/blog/page:num/"
 
-defaultcover: '/assets/img/cardbg.jpg'
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
 
-tlnk: 'https://sunbossrs.coding.net/p/ws-data/d/ws-data/git/raw/master/blogpic/'
-
-version: 0.3
-
-# Navigation links
-nav:
-  home: "/"
-  tags: "/page/tags"
-  about: "/page/about"
-  friends: "/page/links"
-
-# Footer
-footer:
-  since: 2015
-
-# Author 配置博主信息
-author: 耀光
-nickname: SunbossRS
-bio: B站UP主,学生,原创作者
-avatar: "/assets/img/profile.png"
-
-# Search
-search: false
-
-# Night mode
-nightMode: false
-
-# MathJax
-mathjax: true
-
-# Math Plot
-plot: true
-
-# Chem Plot 
-cmplot: true
-
-# Sass
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# theme color 主题皮肤
-theme-color: "default" # default
-
-# Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
-postPatterns: "circuitBoard"
-
-# SNS settings 配置社交网站
-# url: email, twitter, github
-sns:
-  email: "mailto:3127723014@qq.com"
-  github: "https://github.com/SunbossRS"
-  qq: "http://wpa.qq.com/msgrd?v=3&uin=3127723014&site=qq&menu=yes"
-  twitter: "https://twitter.com/mcSunboss"
-  bilibili: "https://space.bilibili.com/204437680"
-
-# Tags 设置标签
-recommend-tags: true # whether or not display recommend-tags on the sidebar
-recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
-
-# Build settings
-paginate: 10
-paginate_path: "page:num"
-exclude: [.gitignore', "README.md"]
-
-# Compress
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: [html, head, body]
-
-# Markdown
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-
-# RSS
-RSS: true
-
-# Permalink
-permalink: /text/:year:month:day
-
-# Plugins
-plugins: [jekyll-paginate]
+exclude:
+  - package.json
+  - node_modules
+  - gulpfile.js
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-theme-mdui.gemspec
+  - LICENSE.txt
+  - README.md
+  - vendor
+  - docs
