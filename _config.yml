@@ -2,9 +2,9 @@ title: "SunbossRS"
 description: "A Jekyll theme based on MDUI"
 url: 'https://sunbossrs.js.org/' # your website url
 baseurl: "" # remember not to add /
-author: "mdui"
+author: "SunbossRS"
 avatar: https://your.author.avatar.path.here
-paginate: 5
+paginate: 7
 paginate_path: "/page:num/"
 headercard_left: assets/images/jekylltheme.jpg
 headercard_right:
@@ -16,7 +16,7 @@ headbar:
    keywords: "blog jekyll mdui theme" #  the site keywords
    theme_color: "orange" #  the color of the Chrome address bar and the navbar, indigo/red/pink/purple/deep-purple/blue/light-blue/cyan/teal/green/light-green/lime/yellow/amber/orange/deep-orange/brown/grey/blue-grey
    nprogress_color: "#29d" #  the color of the top loading progress bar
-   nprogress_buffer: 200 # the top loading progress bar buffers
+   nprogress_buffer: 300 # the top loading progress bar buffers
 
 category:
    'Category.name1': 'https://category.avatar.image.url'
