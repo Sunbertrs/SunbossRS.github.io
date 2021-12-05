@@ -1,19 +1,34 @@
 ![](/jekylltheme.jpg)
 
-# SunbossRS Blog with jekyll-theme-mdui
+# Jekyll Theme MDUI
 
 > A Jekyll theme based on mdui
 
-> 基于[Kejunmao](https://github.com/kejunmao/jekyll-theme-mdui)所做的主题分支
+> SunbossRS分支修改版
 
 ## Contents
 
+* [General](#general)
 * [Demo](#demo)
 * [Quick start](#quick-start)
+* [Docs](#docs)
+* [TODO](#todo)
 * [Note](#note)
 * [Contributing](#contributing)
 * [Development](#development)
 * [License](#license)
+
+## General
+
+[![Version](https://img.shields.io/badge/version-0.5.3-green.svg?style=flat-square)]()
+[![Jekyll](https://img.shields.io/badge/Jekyll-3.5+-green.svg?style=flat-square)](https://jekyllrb.com/)
+[![Gem](https://img.shields.io/gem/dt/jekyll-theme-mdui.svg?style=flat-square)](https://rubygems.org/gems/jekyll-theme-mdui/)
+
+[![Code Climate](https://img.shields.io/codeclimate/maintainability/KeJunMao/jekyll-theme-mdui.svg?style=flat-square&label=code%20climate)](https://codeclimate.com/github/KeJunMao/jekyll-theme-mdui/)
+[![Build Status](https://img.shields.io/travis/KeJunMao/jekyll-theme-mdui.svg?style=flat-square)](https://travis-ci.org/KeJunMao/jekyll-theme-mdui)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
+
+[![Author](https://img.shields.io/badge/author-KeJun-blue.svg?style=flat-square)](https://blog.kejun.me)
 
 ## Demo
 
@@ -24,6 +39,16 @@
 [Quick start](http://mdui.kejun.me/#/quickstart)
 
 [快速开始](http://mdui.kejun.me/#/zh-cn/quickstart)
+
+## Docs
+
+[Docs](http://mdui.kejun.me/#/)(!!!Need Help!!!)
+
+[中文文档](http://mdui.kejun.me/#/zh-cn/)
+
+## TODO
+
+- [ ] V2
 
 ## Note
 
