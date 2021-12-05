@@ -1,7 +1,7 @@
-title: "Jekyll-Theme-MDUI"
+title: "SunbossRS"
 description: "A Jekyll theme based on MDUI"
 url: 'https://sunbossrs.js.org/' # your website url
-baseurl: "jekyll-theme-mdui" # remember not to add /
+baseurl: "" # remember not to add /
 author: "mdui"
 avatar: https://your.author.avatar.path.here
 paginate: 5
